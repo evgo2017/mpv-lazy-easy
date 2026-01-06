@@ -1,6 +1,6 @@
 # MPV 懒人安装包
 
-三步即可直接使用。
+三步即可直接使用。更详细内容查看文章：[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)。
 
 ## 第一步
 
@@ -47,10 +47,6 @@ You can now start MPV.
 [mpv-v0.41.0-x86_64-w64-mingw32.zip](https://github.com/mpv-player/mpv/releases/tag/v0.41.0)
 
 [ModernZ v0.2.8](https://github.com/Samillion/ModernZ/releases/tag/v0.2.8)
-
-更详细内容查看文章：
-
-[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)
 
 若有问题联系我： 
 
