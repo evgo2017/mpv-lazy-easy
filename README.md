@@ -1,12 +1,32 @@
 # MPV 懒人安装包
 
-三步即可直接使用。更详细内容查看文章：[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)。
+三步即可直接使用。
 
-## 第一步
+## 实现效果
+
+更详细内容查看文章：[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)。
+
+### 会话管理器（历史记录）
+
+![2026-01-06_062648](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_062648.png)
+
+### 主页面
+
+![2026-01-06_064346](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_064346.png)
+
+### 各种细节
+
+还支持：鼠标键盘播放上(下)一个、窗口固定尺寸（切换不同尺寸视频、音乐试试）、右键打开播放列表等等。
+
+![2026-01-06_063520](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_063520.png)
+
+## 懒人步骤
+
+### 第一步
 
 下载 [Release](https://github.com/evgo2017/mpv-lazy-easy/releases) 中的 `懒人包.zip` 并解压文件到 `C:\Softwares\mpv`。
 
-## 第二步
+### 第二步
 
 双击运行 `C:\Softwares\mpv` 目录下的脚本：
 
@@ -35,7 +55,7 @@ You can now start MPV.
 请按任意键继续. . .
 ```
 
-## 第三步
+### 第三步
 
 重新启动 MPV 即生效。
 
@@ -53,3 +73,4 @@ You can now start MPV.
 1. [GitHub Issues](https://github.com/evgo2017/mpv-lazy-easy/issues)
 
 2. [evgo2017 个人网站](https://evgo2017.com/about)
+
