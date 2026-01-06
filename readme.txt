@@ -1,9 +1,11 @@
 
-第一步：解压后，依次双击运行当前目录下的脚本：
+第一步：解压后，依次双击运行当前目录下的：
 
-mpv-register.bat（用途：能从 Windows 搜索到这个软件）
+mpv-register.bat 脚本（用途：能从 Windows 搜索到这个软件）
 
-copyConfToAppData.bat（用途：复制配置文件到配置目录）
+fonts 文件夹下的所有字体（用途：字体美化）
+
+copyConfToAppData.bat 脚本（用途：复制配置文件到配置目录）
 
 输出示例：
 
