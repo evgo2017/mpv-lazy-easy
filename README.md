@@ -48,6 +48,12 @@ You can now start MPV.
 
 [ModernZ v0.2.8](https://github.com/Samillion/ModernZ/releases/tag/v0.2.8)
 
+更详细内容查看文章：
+
+[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)
+
 若有问题联系我： 
 
-[evgo2017 个人网站](https://evgo2017.com/about)
+1. [GitHub Issues](https://github.com/evgo2017/mpv-lazy-easy/issues)
+
+2. [evgo2017 个人网站](https://evgo2017.com/about)
