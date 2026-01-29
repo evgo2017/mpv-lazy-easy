@@ -1,26 +1,29 @@
 # MPV 懒人安装包
 
-三步即可直接使用。
+三步即可直接使用：打开上次文件（夹），播放上（下）一个，窗口固定尺寸等。
 
 ## 实现效果
 
 更详细内容查看文章：[MPV 视频播放器 新手入门和懒人安装包](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)。
 
-### 会话管理器（历史记录）
-
-![2026-01-06_062648](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_062648.png)
-
 ### 主页面
 
 ![2026-01-06_064346](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_064346.png)
 
-### 各种细节
+### 常用功能
 
-还支持：鼠标键盘播放上(下)一个、窗口固定尺寸（切换不同尺寸视频、音乐试试）、右键打开播放列表等等。
+* 会话管理器（历史记录）。
+
+![2026-01-06_062648](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_062648.png)
+
+* 鼠标or键盘：播放上（下）一个视频。
+* 窗口固定尺寸：切换不同尺寸视频、音乐。
+* 右键：打开播放列表。
+* and so on.
 
 ![2026-01-06_063520](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_063520.png)
 
-## 懒人步骤
+## 操作步骤
 
 ### 第一步
 
