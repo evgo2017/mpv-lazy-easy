@@ -259,6 +259,6 @@ end)
 log_message("=== MPV 会话管理器启动 ===")
 
 -- 显示加载信息
-mp.osd_message("🎬 会话管理器已加载\nCtrl+Shift+r: 恢复会话\nCtrl+Shift+o: 打开位置\n", 5)
+mp.osd_message("🎬 MPV 快捷键指南\n--------------------------------\n💾 会话: Ctrl+Shift+r 恢复 | Ctrl+Shift+o 打开位置\n🖱️  鼠标: 右键看列表 | 侧键换集\n⌨️ 键盘: 回车全屏 | 上下换集\n🚀 速度: [ 减速、 ] 加速、退格键 BS 重置\n", 8)
 
 print("会话管理器脚本已加载")
