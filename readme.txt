@@ -28,12 +28,12 @@ You can now start MPV.
 请按任意键继续. . .
 ```
 
-重新启动 MPV 即生效。
+第二步：重新启动 MPV 即生效。
 
 更多信息查看：https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy
 
 若有问题联系我： 
 
-1. https://github.com/evgo2017/mpv-lazy-easy/issues
+1. https://evgo2017.com/about
 
-2. https://evgo2017.com/about
+2. https://github.com/evgo2017/mpv-lazy-easy/issues

@@ -23,7 +23,7 @@
 
 * 会话管理器（历史记录）。
 
-![image-20260206125843289](./assets/image-20260206125843289.png)
+![image-20260308125439620](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/image-20260308125439620.png)
 
 ![2026-01-06_063520](https://github.com/evgo2017/mpv-lazy-easy/raw/main/assets/2026-01-06_063520.png)
 
@@ -74,6 +74,8 @@ You can now start MPV.
 [mpv-v0.41.0-x86_64-w64-mingw32.zip](https://github.com/mpv-player/mpv/releases/tag/v0.41.0)
 
 [ModernZ v0.2.8](https://github.com/Samillion/ModernZ/releases/tag/v0.2.8)
+
+更多信息查看：[https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy](https://evgo2017.com/blog/mpv-beginner-and-mpv-lazy-easy)
 
 若有问题联系我： 
 
